@@ -1,0 +1,2745 @@
+{
+ "url": "index.html",
+ "at": "2026-10-20T08:03:24.343Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 9,
+   "filled": [
+    0.98,
+    0.64,
+    0.64,
+    0.56,
+    0.71,
+    0.98,
+    0.59,
+    0.47,
+    0.73
+   ],
+   "motion": {
+    "elements": 26,
+    "css": 0,
+    "transitions": 25,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 7613,
+     "screens": 8.5,
+     "words": 948,
+     "img": 15,
+     "video": 0,
+     "canvas": 0,
+     "svg": 6,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 10,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "hero-house.jpg",
+      "interior-living.jpg",
+      "dining-room.jpg",
+      "kitchen.webp",
+      "property-1.webp",
+      "property-2.webp",
+      "property-3.webp",
+      "staging-before-after-1.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Get more from your home. For less.",
+     "words": 7,
+     "chars": 34,
+     "lines": 2,
+     "size": 72,
+     "vw": 5,
+     "font": "Fraunces",
+     "weight": 400,
+     "tracking": 0,
+     "leading": 1.1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.62,
+     "top": 236,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Get more from your home. For less.",
+     "words": 7,
+     "lines": 2,
+     "size": 72,
+     "font": "Fraunces"
+    },
+    "headings": [
+     {
+      "text": "Get more from your home. For less.",
+      "words": 7,
+      "chars": 34,
+      "lines": 2,
+      "size": 72,
+      "vw": 5,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.62,
+      "top": 236,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "26 Years",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Fraunces",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.16,
+      "top": 732,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "0",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Fraunces",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.16,
+      "top": 732,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "1 Hour",
+      "words": 2,
+      "chars": 6,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Fraunces",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.16,
+      "top": 732,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Real estate done with diligence, not sales talk.",
+      "words": 8,
+      "chars": 48,
+      "lines": 2,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 1042,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Calculate your staging return before you list.",
+      "words": 7,
+      "chars": 46,
+      "lines": 2,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.47,
+      "top": 1624,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "$918,000",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Fraunces",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.24,
+      "top": 1896,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Why homeowners choose us",
+      "words": 4,
+      "chars": 24,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 2434,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "110+ Reasons Why Listings Stall",
+      "words": 5,
+      "chars": 31,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Fraunces",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 2683,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Featured properties",
+      "words": 2,
+      "chars": 19,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 3462,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The power of professional staging",
+      "words": 5,
+      "chars": 33,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 4346,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What our clients say",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 5425,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ready to talk about your next move?",
+      "words": 7,
+      "chars": 35,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 6527,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 4,
+     "centered": 2,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Work Sans",
+       "share": 0.85,
+       "mono": false
+      },
+      {
+       "family": "Fraunces",
+       "share": 0.15,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      36,
+      48,
+      72
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Work Sans",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.6
+     },
+     "measureChars": 82,
+     "max": {
+      "size": 72,
+      "vw": 5,
+      "font": "Fraunces",
+      "text": "Get more from your home. For less."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.1,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0f172b",
+       "top": 124,
+       "hsl": {
+        "h": 223,
+        "s": 0.48,
+        "l": 0.11
+       }
+      },
+      {
+       "color": "#f8fafc",
+       "top": 928,
+       "hsl": {
+        "h": 210,
+        "s": 0.4,
+        "l": 0.98
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 1504,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#001d39",
+       "top": 4234,
+       "hsl": {
+        "h": 209,
+        "s": 1,
+        "l": 0.11
+       }
+      },
+      {
+       "color": "#001427",
+       "top": 7202,
+       "hsl": {
+        "h": 209,
+        "s": 1,
+        "l": 0.08
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#45556c",
+       "share": 0.24
+      },
+      {
+       "color": "#cad5e2",
+       "share": 0.17
+      },
+      {
+       "color": "#62748e",
+       "share": 0.13
+      },
+      {
+       "color": "#001d39",
+       "share": 0.11
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.09
+      }
+     ],
+     "button": {
+      "bg": "#1863dc",
+      "hsl": {
+       "h": 217,
+       "s": 0.8,
+       "l": 0.48
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 8,
+     "inHero": 2,
+     "radius": 12,
+     "height": 72,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Book Consultation",
+      "Book 1-Hr Free Staging Consult"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "div.pt-4.flex 352px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 18,
+     "boxRadius": 16,
+     "squareMedia": 1,
+     "roundedMedia": 9,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 3622
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.88
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 80,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "fraunces",
+     "work sans"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 7613,
+    "margins": {
+     "left": 112,
+     "right": 112
+    },
+    "sections": [
+     {
+      "sel": "section.relative.bg-slate-900",
+      "tag": "section",
+      "top": 124,
+      "height": 804,
+      "words": 65,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Get more from your home. For less.",
+       "size": 72,
+       "tag": "h1"
+      },
+      "left": 311,
+      "right": 311,
+      "textLeft": 311,
+      "textRight": 311,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.py-20.sm:py-28",
+      "tag": "section",
+      "top": 928,
+      "height": 576,
+      "words": 84,
+      "media": 2,
+      "middle": 75,
+      "heading": {
+       "text": "Real estate done with diligence, not sales talk.",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 124,
+      "textLeft": 112,
+      "textRight": 147,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#valuation-tool.py-20.sm:py-28",
+      "tag": "section",
+      "top": 1504,
+      "height": 818,
+      "words": 83,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Calculate your staging return before you list.",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 280,
+      "right": 312,
+      "textLeft": 280,
+      "textRight": 312,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#why-us.py-20.sm:py-28",
+      "tag": "section",
+      "top": 2322,
+      "height": 1028,
+      "words": 176,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Why homeowners choose us",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 144,
+      "textLeft": 112,
+      "textRight": 152,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#properties.py-20.sm:py-28",
+      "tag": "section",
+      "top": 3350,
+      "height": 884,
+      "words": 105,
+      "media": 3,
+      "middle": 32,
+      "heading": {
+       "text": "Featured properties",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 112,
+      "textLeft": 112,
+      "textRight": 112,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#staging.py-20.sm:py-28",
+      "tag": "section",
+      "top": 4234,
+      "height": 1079,
+      "words": 118,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "The power of professional staging",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 136,
+      "textLeft": 112,
+      "textRight": 168,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#testimonials.py-20.sm:py-28",
+      "tag": "section",
+      "top": 5313,
+      "height": 1046,
+      "words": 117,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "What our clients say",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 149,
+      "textLeft": 112,
+      "textRight": 149,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.py-20.sm:py-28",
+      "tag": "section",
+      "top": 6359,
+      "height": 843,
+      "words": 98,
+      "media": 0,
+      "middle": 109,
+      "heading": {
+       "text": "Ready to talk about your next move?",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 168,
+      "right": 200,
+      "textLeft": 168,
+      "textRight": 226,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-[#001427].text-slate-400",
+      "tag": "footer",
+      "top": 7202,
+      "height": 411,
+      "words": 95,
+      "media": 0,
+      "middle": 114,
+      "heading": {
+       "text": "Quick Links",
+       "size": 16,
+       "tag": "h4"
+      },
+      "left": 112,
+      "right": 112,
+      "textLeft": 112,
+      "textRight": 112,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Get more from your home. For less.",
+      "size": 72,
+      "top": 236,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 112,
+      "n": 10
+     },
+     {
+      "x": 136,
+      "n": 9
+     },
+     {
+      "x": 760,
+      "n": 5
+     },
+     {
+      "x": 168,
+      "n": 2
+     },
+     {
+      "x": 544,
+      "n": 2
+     },
+     {
+      "x": 667,
+      "n": 2
+     },
+     {
+      "x": 776,
+      "n": 2
+     },
+     {
+      "x": 968,
+      "n": 1
+     },
+     {
+      "x": 1023,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 34,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 10,
+   "filled": [
+    0.98,
+    0.85,
+    0.78,
+    0.6,
+    0.55,
+    0.98,
+    0.7,
+    0.64,
+    0.59,
+    0.78
+   ],
+   "motion": {
+    "elements": 26,
+    "css": 0,
+    "transitions": 25,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 9395,
+     "screens": 9.2,
+     "words": 948,
+     "img": 15,
+     "video": 0,
+     "canvas": 0,
+     "svg": 6,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 10,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "hero-house.jpg",
+      "interior-living.jpg",
+      "dining-room.jpg",
+      "kitchen.webp",
+      "property-1.webp",
+      "property-2.webp",
+      "property-3.webp",
+      "staging-before-after-1.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Get more from your home. For less.",
+     "words": 7,
+     "chars": 34,
+     "lines": 2,
+     "size": 72,
+     "vw": 9.4,
+     "font": "Fraunces",
+     "weight": 400,
+     "tracking": 0,
+     "leading": 1.1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.94,
+     "top": 289,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Get more from your home. For less.",
+     "words": 7,
+     "lines": 2,
+     "size": 72,
+     "font": "Fraunces"
+    },
+    "headings": [
+     {
+      "text": "Get more from your home. For less.",
+      "words": 7,
+      "chars": 34,
+      "lines": 2,
+      "size": 72,
+      "vw": 9.4,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 289,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "26 Years",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Fraunces",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.28,
+      "top": 785,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "0",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Fraunces",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.28,
+      "top": 785,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "1 Hour",
+      "words": 2,
+      "chars": 6,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Fraunces",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.28,
+      "top": 785,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Real estate done with diligence, not sales talk.",
+      "words": 8,
+      "chars": 48,
+      "lines": 2,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 1126,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Calculate your staging return before you list.",
+      "words": 7,
+      "chars": 46,
+      "lines": 2,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 2077,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "$918,000",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Fraunces",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.31,
+      "top": 2358,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Why homeowners choose us",
+      "words": 4,
+      "chars": 24,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 2947,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "110+ Reasons Why Listings Stall",
+      "words": 5,
+      "chars": 31,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Fraunces",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.61,
+      "top": 3162,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Featured properties",
+      "words": 2,
+      "chars": 19,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.64,
+      "top": 4351,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The power of professional staging",
+      "words": 5,
+      "chars": 33,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 5220,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What our clients say",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 6297,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ready to talk about your next move?",
+      "words": 7,
+      "chars": 35,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 7708,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 4,
+     "centered": 2,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Work Sans",
+       "share": 0.85,
+       "mono": false
+      },
+      {
+       "family": "Fraunces",
+       "share": 0.15,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      36,
+      48,
+      72
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Work Sans",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.6
+     },
+     "measureChars": 82,
+     "max": {
+      "size": 72,
+      "vw": 9.4,
+      "font": "Fraunces",
+      "text": "Get more from your home. For less."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.1,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0f172b",
+       "top": 144,
+       "hsl": {
+        "h": 223,
+        "s": 0.48,
+        "l": 0.11
+       }
+      },
+      {
+       "color": "#f8fafc",
+       "top": 1014,
+       "hsl": {
+        "h": 210,
+        "s": 0.4,
+        "l": 0.98
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 1957,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#001d39",
+       "top": 5108,
+       "hsl": {
+        "h": 209,
+        "s": 1,
+        "l": 0.11
+       }
+      },
+      {
+       "color": "#001427",
+       "top": 8795,
+       "hsl": {
+        "h": 209,
+        "s": 1,
+        "l": 0.08
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#45556c",
+       "share": 0.24
+      },
+      {
+       "color": "#cad5e2",
+       "share": 0.17
+      },
+      {
+       "color": "#62748e",
+       "share": 0.13
+      },
+      {
+       "color": "#001d39",
+       "share": 0.11
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.09
+      }
+     ],
+     "button": {
+      "bg": "#1863dc",
+      "hsl": {
+       "h": 217,
+       "s": 0.8,
+       "l": 0.48
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 2,
+     "radius": 12,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Book Consultation",
+      "Book 1-Hr Free Staging Consult"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "div.pt-4.flex 240px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 19,
+     "boxRadius": 16,
+     "squareMedia": 1,
+     "roundedMedia": 9,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 4535
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.88
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 80,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "fraunces",
+     "work sans"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 9395,
+    "margins": {
+     "left": 24,
+     "right": 44
+    },
+    "sections": [
+     {
+      "sel": "section.relative.bg-slate-900",
+      "tag": "section",
+      "top": 144,
+      "height": 870,
+      "words": 65,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Get more from your home. For less.",
+       "size": 72,
+       "tag": "h1"
+      },
+      "left": 24,
+      "right": 61,
+      "textLeft": 24,
+      "textRight": 61,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.py-20.sm:py-28",
+      "tag": "section",
+      "top": 1014,
+      "height": 943,
+      "words": 84,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "Real estate done with diligence, not sales talk.",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 36,
+      "textLeft": 24,
+      "textRight": 45,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#valuation-tool.py-20.sm:py-28",
+      "tag": "section",
+      "top": 1957,
+      "height": 878,
+      "words": 83,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Calculate your staging return before you list.",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 53,
+      "right": 53,
+      "textLeft": 53,
+      "textRight": 53,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#why-us.py-20.sm:py-28",
+      "tag": "section",
+      "top": 2835,
+      "height": 1404,
+      "words": 176,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Why homeowners choose us",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 44,
+      "textLeft": 24,
+      "textRight": 44,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#properties.py-20.sm:py-28",
+      "tag": "section",
+      "top": 4239,
+      "height": 869,
+      "words": 105,
+      "media": 3,
+      "middle": 32,
+      "heading": {
+       "text": "Featured properties",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 41,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#staging.py-20.sm:py-28",
+      "tag": "section",
+      "top": 5108,
+      "height": 1077,
+      "words": 118,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "The power of professional staging",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 48,
+      "textLeft": 24,
+      "textRight": 49,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#testimonials.py-20.sm:py-28",
+      "tag": "section",
+      "top": 6185,
+      "height": 1355,
+      "words": 117,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "What our clients say",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 62,
+      "textLeft": 24,
+      "textRight": 62,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.py-20.sm:py-28",
+      "tag": "section",
+      "top": 7540,
+      "height": 1255,
+      "words": 98,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Ready to talk about your next move?",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 80,
+      "right": 112,
+      "textLeft": 80,
+      "textRight": 113,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-[#001427].text-slate-400",
+      "tag": "footer",
+      "top": 8795,
+      "height": 600,
+      "words": 95,
+      "media": 0,
+      "middle": 4,
+      "heading": {
+       "text": "Quick Links",
+       "size": 16,
+       "tag": "h4"
+      },
+      "left": 24,
+      "right": 57,
+      "textLeft": 24,
+      "textRight": 57,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Get more from your home. For less.",
+      "size": 72,
+      "top": 289,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 48,
+      "n": 11
+     },
+     {
+      "x": 24,
+      "n": 10
+     },
+     {
+      "x": 424,
+      "n": 6
+     },
+     {
+      "x": 72,
+      "n": 3
+     },
+     {
+      "x": 112,
+      "n": 2
+     },
+     {
+      "x": 299,
+      "n": 1
+     },
+     {
+      "x": 549,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 34,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.95,
+    0.94,
+    0.57,
+    0.76,
+    0.74,
+    0.69,
+    0.63,
+    0.87,
+    0.84,
+    0.95,
+    0.91,
+    0.5
+   ],
+   "motion": {
+    "elements": 26,
+    "css": 0,
+    "transitions": 25,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 12785,
+     "screens": 15.1,
+     "words": 933,
+     "img": 15,
+     "video": 0,
+     "canvas": 0,
+     "svg": 6,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 10,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "hero-house.jpg",
+      "interior-living.jpg",
+      "dining-room.jpg",
+      "kitchen.webp",
+      "property-1.webp",
+      "property-2.webp",
+      "property-3.webp",
+      "staging-before-after-1.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Get more from your home. For less.",
+     "words": 7,
+     "chars": 34,
+     "lines": 2,
+     "size": 36,
+     "vw": 9.2,
+     "font": "Fraunces",
+     "weight": 400,
+     "tracking": 0,
+     "leading": 1.1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 252,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Get more from your home. For less.",
+     "words": 7,
+     "lines": 2,
+     "size": 36,
+     "font": "Fraunces"
+    },
+    "headings": [
+     {
+      "text": "Get more from your home. For less.",
+      "words": 7,
+      "chars": 34,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 252,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "26 Years",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Fraunces",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 773,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "0",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Fraunces",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 857,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "1 Hour",
+      "words": 2,
+      "chars": 6,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Fraunces",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 941,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Real estate done with diligence, not sales talk.",
+      "words": 8,
+      "chars": 48,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1161,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Calculate your staging return before you list.",
+      "words": 7,
+      "chars": 46,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2456,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "$918,000",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Fraunces",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.67,
+      "top": 3142,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Why homeowners choose us",
+      "words": 4,
+      "chars": 24,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3595,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "110+ Reasons Why Listings Stall",
+      "words": 5,
+      "chars": 31,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Fraunces",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.7,
+      "top": 3850,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Sell your home now with forensic market diagnosis",
+      "words": 8,
+      "chars": 49,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 3923,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Experienced agents in your corner",
+      "words": 5,
+      "chars": 33,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 4611,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "24 straight years with an A+ BBB rating",
+      "words": 8,
+      "chars": 39,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 5025,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Featured properties",
+      "words": 2,
+      "chars": 19,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 5535,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "$1,295,000",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Fraunces",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 6048,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "$985,000",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Fraunces",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 6560,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "$789,000",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Fraunces",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 7073,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "The power of professional staging",
+      "words": 5,
+      "chars": 33,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 7401,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What our clients say",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 8878,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ready to talk about your next move?",
+      "words": 7,
+      "chars": 35,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 10525,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Schedule Your 1-Hr Free Consult",
+      "words": 5,
+      "chars": 31,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Fraunces",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.63,
+      "top": 11048,
+      "tag": "h3",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 20,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 4,
+     "centered": 2,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Work Sans",
+       "share": 0.85,
+       "mono": false
+      },
+      {
+       "family": "Fraunces",
+       "share": 0.15,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      36
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Work Sans",
+      "size": 16,
+      "leading": 1.63,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.2
+     },
+     "measureChars": 37,
+     "max": {
+      "size": 36,
+      "vw": 9.2,
+      "font": "Fraunces",
+      "text": "Get more from your home. For less."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.1,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0f172b",
+       "top": 172,
+       "hsl": {
+        "h": 223,
+        "s": 0.48,
+        "l": 0.11
+       }
+      },
+      {
+       "color": "#f8fafc",
+       "top": 1081,
+       "hsl": {
+        "h": 210,
+        "s": 0.4,
+        "l": 0.98
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 1560,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#001d39",
+       "top": 7321,
+       "hsl": {
+        "h": 209,
+        "s": 1,
+        "l": 0.11
+       }
+      },
+      {
+       "color": "#00264d",
+       "top": 7661,
+       "hsl": {
+        "h": 210,
+        "s": 1,
+        "l": 0.15
+       }
+      },
+      {
+       "color": "#001427",
+       "top": 11793,
+       "hsl": {
+        "h": 209,
+        "s": 1,
+        "l": 0.08
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#45556c",
+       "share": 0.24
+      },
+      {
+       "color": "#cad5e2",
+       "share": 0.17
+      },
+      {
+       "color": "#62748e",
+       "share": 0.13
+      },
+      {
+       "color": "#001d39",
+       "share": 0.12
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.09
+      }
+     ],
+     "button": {
+      "bg": "#1863dc",
+      "hsl": {
+       "h": 217,
+       "s": 0.8,
+       "l": 0.48
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 1,
+     "radius": 12,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Book 1-Hr Free Staging Consult"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "div.pt-4.flex 262px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 19,
+     "boxRadius": 16,
+     "squareMedia": 1,
+     "roundedMedia": 9,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.82
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": true,
+     "height": 80,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "fraunces",
+     "work sans"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 12785,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "section.relative.bg-slate-900",
+      "tag": "section",
+      "top": 172,
+      "height": 909,
+      "words": 65,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Get more from your home. For less.",
+       "size": 36,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 23,
+      "textLeft": 16,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.py-20.sm:py-28",
+      "tag": "section",
+      "top": 1081,
+      "height": 1287,
+      "words": 84,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "Real estate done with diligence, not sales talk.",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#valuation-tool.py-20.sm:py-28",
+      "tag": "section",
+      "top": 2368,
+      "height": 1147,
+      "words": 83,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Calculate your staging return before you list.",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 21,
+      "right": 21,
+      "textLeft": 21,
+      "textRight": 21,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#why-us.py-20.sm:py-28",
+      "tag": "section",
+      "top": 3515,
+      "height": 1940,
+      "words": 176,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Why homeowners choose us",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 19,
+      "textLeft": 16,
+      "textRight": 19,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#properties.py-20.sm:py-28",
+      "tag": "section",
+      "top": 5455,
+      "height": 1866,
+      "words": 105,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Featured properties",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#staging.py-20.sm:py-28",
+      "tag": "section",
+      "top": 7321,
+      "height": 1477,
+      "words": 118,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "The power of professional staging",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 21,
+      "textLeft": 16,
+      "textRight": 21,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#testimonials.py-20.sm:py-28",
+      "tag": "section",
+      "top": 8798,
+      "height": 1599,
+      "words": 117,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "What our clients say",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 44,
+      "textLeft": 16,
+      "textRight": 44,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.py-20.sm:py-28",
+      "tag": "section",
+      "top": 10397,
+      "height": 1396,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-[#001427].text-slate-400",
+      "tag": "footer",
+      "top": 11793,
+      "height": 992,
+      "words": 95,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Quick Links",
+       "size": 16,
+       "tag": "h4"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Get more from your home. For less.",
+      "size": 36,
+      "top": 252,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 40,
+      "n": 20
+     },
+     {
+      "x": 16,
+      "n": 10
+     }
+    ],
+    "leftBlocks": 30,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "hairline",
+   "width": 1440,
+   "message": "1 thin rule(s)/divider line(s): div.pt-4.flex 352px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 768,
+   "message": "The margins differ: 24px on the left, 44px on the right, at 768px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/louiemd/Desktop/prospect/Joseph/mockup-1/dist/.taste-skill/inspect/desktop-fold.jpg",
+   "pages": [
+    "/Users/louiemd/Desktop/prospect/Joseph/mockup-1/dist/.taste-skill/inspect/desktop-page-01.jpg",
+    "/Users/louiemd/Desktop/prospect/Joseph/mockup-1/dist/.taste-skill/inspect/desktop-page-02.jpg",
+    "/Users/louiemd/Desktop/prospect/Joseph/mockup-1/dist/.taste-skill/inspect/desktop-page-03.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/louiemd/Desktop/prospect/Joseph/mockup-1/dist/.taste-skill/inspect/tablet-fold.jpg",
+   "pages": [
+    "/Users/louiemd/Desktop/prospect/Joseph/mockup-1/dist/.taste-skill/inspect/tablet-page-01.jpg",
+    "/Users/louiemd/Desktop/prospect/Joseph/mockup-1/dist/.taste-skill/inspect/tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/louiemd/Desktop/prospect/Joseph/mockup-1/dist/.taste-skill/inspect/mobile-fold.jpg",
+   "pages": [
+    "/Users/louiemd/Desktop/prospect/Joseph/mockup-1/dist/.taste-skill/inspect/mobile-page-01.jpg",
+    "/Users/louiemd/Desktop/prospect/Joseph/mockup-1/dist/.taste-skill/inspect/mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
